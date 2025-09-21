@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(claude mcp:*)",
+      "mcp__Ref__ref_search_documentation",
+      "mcp__Ref__ref_read_url",
+      "Bash(npx exa-mcp-serve:*)",
+      "mcp__exa__web_search_exa",
+      "Read(/C:\\Users\\hoang\\.claude/**)",
+      "Read(/C:\\Users\\hoang/**)",
+      "mcp__exa__deep_researcher_start",
+      "mcp__exa__deep_researcher_check",
+      "Bash(npx shadcn@latest mcp init:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
